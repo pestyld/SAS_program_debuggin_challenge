@@ -1,4 +1,4 @@
-# SAS_program_debuggin_challenge
+# SAS Programming Debugging Challenge
 
 ## Scenario
 You are an analyst at the National Hurricane Center. Your department has been working on a project 
